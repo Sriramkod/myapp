@@ -1,0 +1,13 @@
+package com.sriram.myappp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyapppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyapppApplication.class, args);
+	}
+
+}
